@@ -1,0 +1,229 @@
+.bloc_master {
+    
+    width: fit-content;
+    margin: 0 auto;
+    
+}
+.master{
+    
+    position: relative;
+    padding-top: 115px;
+    justify-items: center;
+}
+.gleb_orich_photo{
+    display: block;
+    max-width: 100%;
+    height: auto;    
+}
+.name{
+    font-family: 'Milker';
+    position:absolute;
+    top: -70px;
+    left: -145px;
+    
+    color:#F3EDD9;
+    font-size: 120px;
+}
+.last_name{
+    font-family: 'Milker';
+    position:absolute;
+    top: 570px;
+    left: 250px;
+    z-index: 1;
+    color:#F3EDD9;
+    font-size: 120px;
+}
+.text_zbs{
+    position:absolute;
+    top: 50px;
+    left: 200px;
+    z-index: 1;
+    color:#F3EDD9;
+    font-size: 18px;
+    letter-spacing: 0.09em;
+}
+.text_zbs2{
+    position:absolute;
+    top: 70px;
+    left: 200px;
+    text-align: left;
+    z-index: 1;
+    color:#F3EDD9;
+    font-size: 12px;
+    letter-spacing: 0.15em;
+}
+
+@media(max-width:900px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 80%;
+    height: auto;
+}
+     .name{
+        font-size: 85px;
+        top: -20px;
+        left: -45px;
+     }
+     .last_name{
+        font-size: 85px;
+        top: 520px;
+     }
+     .text_zbs{
+        font-size: 15px;
+        top: 65px;
+     }
+     .text_zbs2{
+        font-size: 10px;
+        top: 80px;
+
+     }
+
+
+}
+@media(max-width:620px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 65%;
+    height: auto;
+}
+     .name{
+        font-size: 65px;
+        top: 5px;
+        left: 13px;
+     }
+     .last_name{
+        font-size: 65px;
+        top: 450px;
+     }
+     .text_zbs{
+        font-size: 13px;
+        top: 70px;
+     }
+     .text_zbs2{
+        font-size: 8.5px;
+        top: 85px;
+
+     }
+
+
+}
+@media(max-width:470px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 70%;
+    height: auto;
+}
+     .name{
+        font-size: 55px;
+        top: 30px;
+        left: 20px;
+     }
+     .last_name{
+        font-size: 55px;
+        top: 400px;
+        left: 200px;
+     }
+     .text_zbs{
+        font-size: 10px;
+        top: 85px;
+        left: 180px;
+     }
+     .text_zbs2{
+        font-size: 6.5px;
+        top: 95px;
+        left: 180px;
+
+     }
+
+
+}
+@media(max-width:400px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 70%;
+    height: auto;
+}
+     .name{
+        font-size: 55px;
+        top: 30px;
+        left: 20px;
+     }
+     .last_name{
+        font-size: 55px;
+        top: 400px;
+        left: 180px;
+     }
+     .text_zbs{
+        font-size: 10px;
+        top: 85px;
+        left: 180px;
+     }
+     .text_zbs2{
+        font-size: 6.5px;
+        top: 95px;
+        left: 180px;
+
+     }
+
+
+}
+@media(max-width:375px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 70%;
+    height: auto;
+}
+     .name{
+        font-size: 55px;
+        top: 30px;
+        left: 10px;
+     }
+     .last_name{
+        font-size: 55px;
+        top: 350px;
+        left: 150px;
+     }
+     .text_zbs{
+        font-size: 10px;
+        top: 85px;
+        left: 170px;
+     }
+     .text_zbs2{
+        font-size: 6.5px;
+        top: 95px;
+        left: 170px;
+
+     }
+
+
+}
+@media(max-width:320px){
+    .gleb_orich_photo{
+    display: block;
+    max-width: 70%;
+    height: auto;
+}
+     .name{
+        font-size: 55px;
+        top: 30px;
+        left: 10px;
+     }
+     .last_name{
+        font-size: 55px;
+        top: 330px;
+        left: 110px;
+     }
+     .text_zbs{
+        font-size: 7.5px;
+        top: 92px;
+        left: 170px;
+     }
+     .text_zbs2{
+        font-size: 5px;
+        top: 100px;
+        left: 170px;
+
+     }
+
+
+}

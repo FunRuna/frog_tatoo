@@ -1,0 +1,21 @@
+.zag{
+    font-family: 'Milker' ;
+    color: #F3EDD9;
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    font-size: 50px;
+    letter-spacing: 0.15em;
+}
+@media(max-width:375px){
+    .zag{
+        font-size: 45px;
+        padding: 20px;
+    }
+}
+@media(max-width:350px){
+    .zag{
+        font-size: 35px;
+        padding: 20px;
+    }
+}
