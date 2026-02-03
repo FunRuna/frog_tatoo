@@ -36,7 +36,7 @@ export const Footer = () => {
             </nav>
             
             <div className="logo_footer">
-            <a href="#top_lig"><img id="bot_lig" src={Logo} alt="Логотип" className="ligus"/></a>
+            <a href="#top_moment"><img id="bot_lig" src={Logo} alt="Логотип" className="ligus"/></a>
             </div>
             </div>
         </div>

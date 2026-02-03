@@ -42,7 +42,7 @@ export const Hero = () => {
       </header>
 
 
-      <div className="hero__content">
+      <div id="top_moment" className="hero__content">
         <h1>Frog Cult</h1>
       </div>
     </section>
