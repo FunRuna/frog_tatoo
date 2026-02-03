@@ -1,6 +1,6 @@
 .bloc_master {
     
-    width: fit-content;
+    width: flex;
     margin: 0 auto;
     
 }
