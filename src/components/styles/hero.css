@@ -68,6 +68,7 @@ img {
 }
 .logo {
   display: block;
+  padding: 10px;
 }
 .logo_img{
   width: 120px;
@@ -148,6 +149,9 @@ img {
   }
   .inv{
     display: none;
+  }
+  .logo{
+    padding: 0px;
   }
   .menu{
     position: absolute;
