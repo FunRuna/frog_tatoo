@@ -10,7 +10,7 @@ import bgFooter from './components/img/bg_footer.png';
 export const Home = () => {
   return (
     <div>
-      <Hero/>
+      
 
       <div
         className="bg_fon"
@@ -18,7 +18,7 @@ export const Home = () => {
           backgroundImage: `url(${bgImage})`
         }}
         >
-        
+        <Hero/>
 
         <Master/>
 

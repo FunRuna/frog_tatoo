@@ -4,8 +4,8 @@ import './styles/zag.css';
 import Gleb from './img/gleb_orich.png';
 export const Master = () => {
   return (
-    <section  className="bloc_master">
-    <p id="Master" className="zag">Master</p>
+    <section id="Master" className="bloc_master">
+    <p  className="zag">Master</p>
     <div className="master">
         
         <h1 className="name">Gleb</h1>
